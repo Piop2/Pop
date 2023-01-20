@@ -1,0 +1,5 @@
+fps = 60
+window = [500, 500]
+background = [0, 255, 0]
+recognition = 300
+durations = [100, 100]
